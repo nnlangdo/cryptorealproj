@@ -1,0 +1,3 @@
+#(venv) narendra@narendra-desktop:~/my/django/projects/cryptorealproj$ celery -A crypto_proj beat -l info
+#(venv) narendra@narendra-desktop:~/my/django/projects/cryptorealproj$ celery -A crypto_proj worker -l info
+#
